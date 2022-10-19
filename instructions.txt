@@ -3,3 +3,5 @@ run "import pyautogui" (hit enter)
 then run "pyautogui.displayMousePosition()"
 After that it will start logging you mouse's position and the RGB color of what its looking at EX of rgb: rgb(0, 0, 0)
 After that you go to go to your desired Magic Tiles game and hover over the selected regions where of magic tile bot and put in those coordinates the position it logs you put that position in main.py
+
+Also press Q to stop it
