@@ -5,3 +5,5 @@ pip install pyautogui
 pip install opencv-python
 
 These commands will install the proper dependencies on your system.
+
+Sorry, this bot at least I only made for windows but you could edit it to work for your respective operating system as long as it supports python.
