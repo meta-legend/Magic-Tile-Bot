@@ -1,3 +1,5 @@
+First go to packages.txt to download all of the python packages used by the bot.
+
 Assuming you have python installed, open a python IDLE window (go into your os's search bar and type IDLE it should pop up)
 run "import pyautogui" (hit enter)
 then run "pyautogui.displayMousePosition()"
